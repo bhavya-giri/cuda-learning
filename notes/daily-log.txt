@@ -1,0 +1,7 @@
+Day 1
+Watched: intro + first kernel setup
+Built: vector addition — works
+Broke: changed block size to 2048 — got launch error, blocks can't exceed 1024
+C++: practiced pointers, malloc/free vs new/delete
+Tomorrow: re-read PMPP Ch2 section on thread hierarchy, extend to 2D grid
+
