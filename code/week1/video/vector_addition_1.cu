@@ -5,7 +5,7 @@
 # include <time.h>
 # include <cuda_runtime.h>
 
-#define N 10000
+#define N 1000000
 #define BLOCK_SIZE 256
 
 void vector_add_cpu(float *a, float *b, float *c, int n) {
